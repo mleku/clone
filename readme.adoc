@@ -1,0 +1,19 @@
+= clone.mleku.dev
+:toc:
+:note-caption: note 👉
+
+a simple commandline tool that automatically git clones repos into your $GOPATH
+
+usage:
+
+    clone github.com/example/awesomeproject
+
+will clone the project into:
+
+    $GOPATH/src/github.com/example/awesomeproject
+
+no muss, no fuss. keep your GOPATH tidy
+
+== installation
+
+go install clone.mleku.dev@latest
