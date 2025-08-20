@@ -16,4 +16,4 @@ no muss, no fuss. keep your GOPATH tidy
 
 == installation
 
-go install clone.mleku.dev@latest
+    go install clone.mleku.dev@latest
